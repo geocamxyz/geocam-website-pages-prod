@@ -1,0 +1,80 @@
+# GeoCam - Aerial, Street, and Indoor Geospatial Imagery Platform
+
+> GeoCam enables organizations to capture their own "Street View" of anything, anywhere—building geospatial digital twins from 360 imagery without LiDAR.
+
+## What is GeoCam?
+
+GeoCam is a reality capture platform that transforms 360 imagery into GIS-ready asset data and 3D outputs. Users capture imagery using professional-grade 360 cameras or drones, then use GeoCam's visual positioning engine to create accurate, measurable maps.
+
+## Core Capabilities
+
+- **Capture Modes**: Aerial (drone), Street (vehicle/walking), Indoor (facilities)
+- **Visual Positioning System**: Fuses hundreds of captures across different lighting conditions into seamless, accurate maps
+- **In-Browser Tools**: Tag, measure, and map assets directly in the web viewer
+- **GIS Integration**: SSO and direct edit into ArcGIS Online or Enterprise; export to GeoJSON, Shapefile, KML, CSV
+- **PII Protection**: Automatic face and license plate blurring on all projects
+- **AI Features**: Custom detection models, 3D reconstruction from imagery
+
+## Target Users
+
+- Public Works Directors: Document roads, signs, signals, ADA compliance
+- GIS Managers: Populate GIS directly from imagery with ArcGIS integration
+- Facility Managers: Document indoor spaces, track equipment, plan maintenance
+- Public Safety Chiefs: Fire pre-plans, scene investigation, waterway navigation
+- Utilities: Electric distribution, substations, vaults, gas infrastructure, water systems
+- Fiber & Telecom: As-built documentation, strand mapping, pole attachments
+- Campus and Parks & Recreation: Campus grounds, park assets, trails, facilities, and visitor-facing documentation
+
+## Data Models
+
+- **Geospatial**: Local Government Public Works, Street Signs with Codes, Fiber Engineering, Electric Utility, Facilities Management, Public Safety Pre-Plans, ArcGIS Indoors, Apple IMDF
+- **CAD Modeling**: Indoor Architecture LOD 300, Reflected Ceiling Plans
+
+## Pricing
+
+### Subscriptions
+- **Pilot**: $5,000/week - One capture mode, full platform access, onboarding support
+- **Annual**: $20,000/year - All capture modes, included users & VPS credits, SSO, API access
+- **GeoCam Edge**: $40,000/year - Unlimited use, air-gapped deployment, command center ready
+
+### Visual Positioning System Credits
+- Aerial: $200 per square kilometer
+- Street: $25 per kilometer
+- Indoor: $0.10 per square meter
+- Bulk discounts available for pre-purchasing credits
+
+### User Licensing
+- Viewer: $120/year - View imagery, access measurements, export data
+- Admin: $2,500/year - Full platform access, capture management, user administration
+
+### GeoCam Capture Experts
+- Starting at $1,000/day for managed field teams
+- Options for secure facilities and restricted areas
+
+## Deployment Options
+
+- **GeoCam Online**: Fully managed cloud service
+- **GeoCam Appliance**: Managed service in data centers or remotely managed inside your network
+- **GeoCam Edge**: Deploy in command centers and field operations for air-gapped environments
+
+## Technical Details
+
+- No LiDAR required - uses photogrammetry and visual positioning
+- Measurement accuracy depends on capture conditions, image overlap, and scene geometry
+- Designed for asset inventory, planning, and field verification workflows
+- Not a replacement for licensed survey where required
+- REST API available for programmatic access
+
+## Company Information
+
+- Website: https://www.geocam.xyz
+- Contact: https://www.geocam.xyz/contact
+
+## Key Differentiators
+
+1. Build your own "Street View" for any environment (aerial, street, indoor)
+2. Visual positioning engine handles varying lighting conditions
+3. Direct ArcGIS integration with SSO
+4. PII blurring included by default
+5. Flexible deployment (cloud, appliance, edge/air-gapped)
+6. Partner network for capture services
