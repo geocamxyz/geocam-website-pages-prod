@@ -3,4 +3,4 @@
 :HL["/images/capture-bike-square.webp","image"]
 :HL["/images/capture-walk.webp","image"]
 :HL["/images/capture-cart.webp","image"]
-0:{"buildId":"hvnk4fncolQJFm5Gx3ZzZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"capture","paramType":null,"paramKey":"capture","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"_H_m_vegmqbWGzv3CtkUY","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"capture","paramType":null,"paramKey":"capture","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
