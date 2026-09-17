@@ -1,0 +1,4 @@
+# Private preview host. Nothing here is for crawlers; the public site is
+# https://www.geocam.xyz (see its own robots.txt).
+User-agent: *
+Disallow: /
